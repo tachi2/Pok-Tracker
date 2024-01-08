@@ -1,0 +1,5008 @@
+[
+  {
+    "pokedexNumber": 1,
+    "name": "Grookey",
+    "location": " ",
+    "evolutionLevel": "16",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 810,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/810.png"
+  },
+  {
+    "pokedexNumber": 2,
+    "name": "Thwackey",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 811,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/811.png"
+  },
+  {
+    "pokedexNumber": 3,
+    "name": "Rillaboom",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 812,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/812.png"
+  },
+  {
+    "pokedexNumber": 4,
+    "name": "Scorbunny",
+    "location": " ",
+    "evolutionLevel": "16",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 813,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/813.png"
+  },
+  {
+    "pokedexNumber": 5,
+    "name": "Raboot",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 814,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/814.png"
+  },
+  {
+    "pokedexNumber": 6,
+    "name": "Cinderace",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 815,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/815.png"
+  },
+  {
+    "pokedexNumber": 7,
+    "name": "Sobble",
+    "location": " ",
+    "evolutionLevel": "16",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 816,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/816.png"
+  },
+  {
+    "pokedexNumber": 8,
+    "name": "Drizzile",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 817,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/817.png"
+  },
+  {
+    "pokedexNumber": 9,
+    "name": "Inteleon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 818,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/818.png"
+  },
+  {
+    "pokedexNumber": 10,
+    "name": "Blipbug",
+    "location": " ",
+    "evolutionLevel": "10",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Giant's Cap",
+      "Route 1",
+      "Slumbering Weald"
+    ],
+    "natlDex": 824,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/824.png"
+  },
+  {
+    "pokedexNumber": 11,
+    "name": "Dottler",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Route 5",
+      "Giant's Mirror",
+      "Stony Wilderness"
+    ],
+    "natlDex": 825,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/825.png"
+  },
+  {
+    "pokedexNumber": 12,
+    "name": "Orbeetle",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Slumbering Weald"
+    ],
+    "natlDex": 826,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/826.png"
+  },
+  {
+    "pokedexNumber": 13,
+    "name": "Caterpie",
+    "location": " ",
+    "evolutionLevel": "7",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 1"
+    ],
+    "natlDex": 10,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/010.png"
+  },
+  {
+    "pokedexNumber": 14,
+    "name": "Metapod",
+    "location": " ",
+    "evolutionLevel": "10",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields"
+    ],
+    "natlDex": 11,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/011.png"
+  },
+  {
+    "pokedexNumber": 15,
+    "name": "Butterfree",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Giant's Mirror",
+      "Slumbering Weald",
+      "Lake Axwell"
+    ],
+    "natlDex": 12,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/012.png"
+  },
+  {
+    "pokedexNumber": 16,
+    "name": "Grubbin",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 1",
+      "Dappled Grove",
+      "Slumbering Weald",
+      "Lake Axwell"
+    ],
+    "natlDex": 736,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/736.png"
+  },
+  {
+    "pokedexNumber": 17,
+    "name": "Charjabug",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Hammerlocke Hills",
+      "Dusty Bowl"
+    ],
+    "natlDex": 737,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/737.png"
+  },
+  {
+    "pokedexNumber": 18,
+    "name": "Vikavolt",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Route 1",
+      "Slumbering Weald"
+    ],
+    "natlDex": 738,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/738.png"
+  },
+  {
+    "pokedexNumber": 19,
+    "name": "Hoothoot",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Giant's Cap",
+      "Slumbering Weald",
+      "Dappled Grove",
+      "Route 1"
+    ],
+    "natlDex": 163,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/163.png"
+  },
+  {
+    "pokedexNumber": 20,
+    "name": "Noctowl",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Motostoke Outskirts",
+      "Motostoke Riverbank"
+    ],
+    "natlDex": 164,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/164.png"
+  },
+  {
+    "pokedexNumber": 21,
+    "name": "Rookidee",
+    "location": " ",
+    "evolutionLevel": "18",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Slumbering Weald",
+      "Motostoke Riverbank",
+      "Route 1",
+      "Route 3"
+    ],
+    "natlDex": 821,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/821.png"
+  },
+  {
+    "pokedexNumber": 22,
+    "name": "Corvisquire",
+    "location": " ",
+    "evolutionLevel": "38",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Giant's Mirror",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 822,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/822.png"
+  },
+  {
+    "pokedexNumber": 23,
+    "name": "Corviknight",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 7",
+      "Slumbering Weald"
+    ],
+    "natlDex": 823,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/823.png"
+  },
+  {
+    "pokedexNumber": 24,
+    "name": "Skwovet",
+    "location": " ",
+    "evolutionLevel": "24",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Rolling Fields",
+      "Route 1",
+      "Slumbering Weald"
+    ],
+    "natlDex": 819,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/819.png"
+  },
+  {
+    "pokedexNumber": 25,
+    "name": "Greedent",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Route 6"
+    ],
+    "natlDex": 820,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/820.png"
+  },
+  {
+    "pokedexNumber": 26,
+    "name": "Pidove",
+    "location": " ",
+    "evolutionLevel": "21",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Watchtower Ruins",
+      "Lake Axwell"
+    ],
+    "natlDex": 519,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/519.png"
+  },
+  {
+    "pokedexNumber": 27,
+    "name": "Tranquill",
+    "location": " ",
+    "evolutionLevel": "32",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Giant's Mirror"
+    ],
+    "natlDex": 520,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/520.png"
+  },
+  {
+    "pokedexNumber": 28,
+    "name": "Unfezant",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Bridge Field",
+      "Hammerlocke Hills",
+      "Stony Wilderness"
+    ],
+    "natlDex": 521,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/521.png"
+  },
+  {
+    "pokedexNumber": 29,
+    "name": "Nickit",
+    "location": " ",
+    "evolutionLevel": "18",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Route 1",
+      "Stony Wilderness",
+      "Dusty Bowl"
+    ],
+    "natlDex": 827,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/827.png"
+  },
+  {
+    "pokedexNumber": 30,
+    "name": "Thievul",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 7",
+      "Bridge Field"
+    ],
+    "natlDex": 828,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/828.png"
+  },
+  {
+    "pokedexNumber": 31,
+    "name": "Zigzagoon",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Bridge Field",
+      "Stony Wilderness",
+      "Route 3"
+    ],
+    "natlDex": 263,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/263.png"
+  },
+  {
+    "pokedexNumber": 32,
+    "name": "Linoone",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap"
+    ],
+    "natlDex": 264,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/264.png"
+  },
+  {
+    "pokedexNumber": 33,
+    "name": "Obstagoon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 862,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/862.png"
+  },
+  {
+    "pokedexNumber": 34,
+    "name": "Wooloo",
+    "location": " ",
+    "evolutionLevel": "24",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 1",
+      "Motostoke Riverbank",
+      "Route 4"
+    ],
+    "natlDex": 831,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/831.png"
+  },
+  {
+    "pokedexNumber": 35,
+    "name": "Dubwool",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank"
+    ],
+    "natlDex": 832,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/832.png"
+  },
+  {
+    "pokedexNumber": 36,
+    "name": "Lotad",
+    "location": " ",
+    "evolutionLevel": "14",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Rolling Fields",
+      "Dappled Grove",
+      "Lake Axwell"
+    ],
+    "natlDex": 270,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/270.png"
+  },
+  {
+    "pokedexNumber": 37,
+    "name": "Lombre",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Giant's Cap",
+      "Route 5",
+      "Dappled Grove"
+    ],
+    "natlDex": 271,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/271.png"
+  },
+  {
+    "pokedexNumber": 38,
+    "name": "Ludicolo",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 272,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/272.png"
+  },
+  {
+    "pokedexNumber": 39,
+    "name": "Seedot",
+    "location": " ",
+    "evolutionLevel": "14",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Dappled Grove",
+      "Lake Axwell"
+    ],
+    "natlDex": 273,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/273.png"
+  },
+  {
+    "pokedexNumber": 40,
+    "name": "Nuzleaf",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Rolling Fields",
+      "Dappled Grove",
+      "Lake Miloch"
+    ],
+    "natlDex": 274,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/274.png"
+  },
+  {
+    "pokedexNumber": 41,
+    "name": "Shiftry",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 275,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/275.png"
+  },
+  {
+    "pokedexNumber": 42,
+    "name": "Chewtle",
+    "location": " ",
+    "evolutionLevel": "22",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Lake of Outrage",
+      "Stony Wilderness",
+      "City of Motostoke",
+      "Town of Hulbury"
+    ],
+    "natlDex": 833,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/833.png"
+  },
+  {
+    "pokedexNumber": 43,
+    "name": "Drednaw",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Bridge Field",
+      "Giant's Mirror"
+    ],
+    "natlDex": 834,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/834.png"
+  },
+  {
+    "pokedexNumber": 44,
+    "name": "Purrloin",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Lake Axwell",
+      "Watchtower Ruins",
+      "Motostoke Riverbank",
+      "Dappled Grove"
+    ],
+    "natlDex": 509,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/509.png"
+  },
+  {
+    "pokedexNumber": 45,
+    "name": "Liepard",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Giant's Cap",
+      "Route 9"
+    ],
+    "natlDex": 510,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/510.png"
+  },
+  {
+    "pokedexNumber": 46,
+    "name": "Yamper",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Motostoke Riverbank",
+      "Stony Wilderness",
+      "Dusty Bowl"
+    ],
+    "natlDex": 835,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/835.png"
+  },
+  {
+    "pokedexNumber": 47,
+    "name": "Boltund",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Motostoke Riverbank"
+    ],
+    "natlDex": 836,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/836.png"
+  },
+  {
+    "pokedexNumber": 48,
+    "name": "Bunnelby",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Rolling Fields",
+      "Dappled Grove",
+      "Lake Axwell"
+    ],
+    "natlDex": 659,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/659.png"
+  },
+  {
+    "pokedexNumber": 49,
+    "name": "Diggersby",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Axew's Eye",
+      "Giant's Cap"
+    ],
+    "natlDex": 660,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/660.png"
+  },
+  {
+    "pokedexNumber": 50,
+    "name": "Minccino",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Rolling Fields",
+      "Lake Axwell"
+    ],
+    "natlDex": 572,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/572.png"
+  },
+  {
+    "pokedexNumber": 51,
+    "name": "Cinccino",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 573,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/573.png"
+  },
+  {
+    "pokedexNumber": 52,
+    "name": "Bounsweet",
+    "location": " ",
+    "evolutionLevel": "18",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Stony Wilderness",
+      "Watchtower Ruins"
+    ],
+    "natlDex": 761,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/761.png"
+  },
+  {
+    "pokedexNumber": 53,
+    "name": "Steenee",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye"
+    ],
+    "natlDex": 762,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/762.png"
+  },
+  {
+    "pokedexNumber": 54,
+    "name": "Tsareena",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 763,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/763.png"
+  },
+  {
+    "pokedexNumber": 55,
+    "name": "Oddish",
+    "location": " ",
+    "evolutionLevel": "21",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Dappled Grove",
+      "Lake Axwell"
+    ],
+    "natlDex": 43,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/043.png"
+  },
+  {
+    "pokedexNumber": 56,
+    "name": "Gloom",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Giant's Cap",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 44,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/044.png"
+  },
+  {
+    "pokedexNumber": 57,
+    "name": "Vileplume",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 45,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/045.png"
+  },
+  {
+    "pokedexNumber": 58,
+    "name": "Bellossom",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 182,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/182.png"
+  },
+  {
+    "pokedexNumber": 59,
+    "name": "Budew",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Lake Axwell"
+    ],
+    "natlDex": 406,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/406.png"
+  },
+  {
+    "pokedexNumber": 60,
+    "name": "Roselia",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Lake Miloch"
+    ],
+    "natlDex": 315,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/315.png"
+  },
+  {
+    "pokedexNumber": 61,
+    "name": "Roserade",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 407,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/407.png"
+  },
+  {
+    "pokedexNumber": 62,
+    "name": "Wingull",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 278,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/278.png"
+  },
+  {
+    "pokedexNumber": 63,
+    "name": "Pelipper",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Route 9",
+      "Dusty Bowl"
+    ],
+    "natlDex": 279,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/279.png"
+  },
+  {
+    "pokedexNumber": 64,
+    "name": "Joltik",
+    "location": " ",
+    "evolutionLevel": "36",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Rolling Fields",
+      "Giant's Mirror",
+      "Lake Miloch"
+    ],
+    "natlDex": 595,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/595.png"
+  },
+  {
+    "pokedexNumber": 65,
+    "name": "Galvantula",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 7"
+    ],
+    "natlDex": 596,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/596.png"
+  },
+  {
+    "pokedexNumber": 66,
+    "name": "Electrike",
+    "location": " ",
+    "evolutionLevel": "26",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Rolling Fields",
+      "Lake Axwell"
+    ],
+    "natlDex": 309,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/309.png"
+  },
+  {
+    "pokedexNumber": 67,
+    "name": "Manectric",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Axew's Eye",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 310,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/310.png"
+  },
+  {
+    "pokedexNumber": 68,
+    "name": "Vulpix",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Lake Axwell",
+      "Lake Miloch",
+      "Route 1",
+      "Route 3"
+    ],
+    "natlDex": 37,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/037.png"
+  },
+  {
+    "pokedexNumber": 69,
+    "name": "Ninetales",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 38,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/038.png"
+  },
+  {
+    "pokedexNumber": 70,
+    "name": "Growlithe",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Hammerlocke Hills",
+      "Dusty Bowl"
+    ],
+    "natlDex": 58,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/058.png"
+  },
+  {
+    "pokedexNumber": 71,
+    "name": "Arcanine",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 59,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/059.png"
+  },
+  {
+    "pokedexNumber": 72,
+    "name": "Vanillite",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Rolling Fields",
+      "Lake Axwell"
+    ],
+    "natlDex": 582,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/582.png"
+  },
+  {
+    "pokedexNumber": 73,
+    "name": "Vanillish",
+    "location": " ",
+    "evolutionLevel": "47",
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Route 10",
+      "Route 8",
+      "Dusty Bowl"
+    ],
+    "natlDex": 583,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/583.png"
+  },
+  {
+    "pokedexNumber": 74,
+    "name": "Vanilluxe",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 10",
+      "Lake of Outrage"
+    ],
+    "natlDex": 584,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/584.png"
+  },
+  {
+    "pokedexNumber": 75,
+    "name": "Swinub",
+    "location": " ",
+    "evolutionLevel": "33",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Hammerlocke Hills",
+      "Dusty Bowl"
+    ],
+    "natlDex": 220,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/220.png"
+  },
+  {
+    "pokedexNumber": 76,
+    "name": "Piloswine",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Dusty Bowl"
+    ],
+    "natlDex": 221,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/221.png"
+  },
+  {
+    "pokedexNumber": 77,
+    "name": "Mamoswine",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 473,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/473.png"
+  },
+  {
+    "pokedexNumber": 78,
+    "name": "Delibird",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Giant's Seat",
+      "Route 1",
+      "Watchtower Ruins"
+    ],
+    "natlDex": 225,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/225.png"
+  },
+  {
+    "pokedexNumber": 79,
+    "name": "Snorunt",
+    "location": " ",
+    "evolutionLevel": "42",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Rolling Fields",
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 361,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/361.png"
+  },
+  {
+    "pokedexNumber": 80,
+    "name": "Glalie",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 9"
+    ],
+    "natlDex": 362,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/362.png"
+  },
+  {
+    "pokedexNumber": 81,
+    "name": "Froslass",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 478,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/478.png"
+  },
+  {
+    "pokedexNumber": 82,
+    "name": "Baltoy",
+    "location": " ",
+    "evolutionLevel": "36",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Lake Miloch",
+      "Stony Wilderness",
+      "Lake Axwell"
+    ],
+    "natlDex": 343,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/343.png"
+  },
+  {
+    "pokedexNumber": 83,
+    "name": "Claydol",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Lake of Outrage"
+    ],
+    "natlDex": 344,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/344.png"
+  },
+  {
+    "pokedexNumber": 84,
+    "name": "Mudbray",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 749,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/749.png"
+  },
+  {
+    "pokedexNumber": 85,
+    "name": "Mudsdale",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Axew's Eye"
+    ],
+    "natlDex": 750,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/750.png"
+  },
+  {
+    "pokedexNumber": 86,
+    "name": "Dwebble",
+    "location": " ",
+    "evolutionLevel": "34",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Lake Axwell",
+      "Lake Miloch",
+      "Giant's Seat",
+      "Stony Wilderness"
+    ],
+    "natlDex": 557,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/557.png"
+  },
+  {
+    "pokedexNumber": 87,
+    "name": "Crustle",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye"
+    ],
+    "natlDex": 558,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/558.png"
+  },
+  {
+    "pokedexNumber": 88,
+    "name": "Golett",
+    "location": " ",
+    "evolutionLevel": "43",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Stony Wilderness",
+      "Route 8",
+      "Watchtower Ruins"
+    ],
+    "natlDex": 622,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/622.png"
+  },
+  {
+    "pokedexNumber": 89,
+    "name": "Golurk",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 623,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/623.png"
+  },
+  {
+    "pokedexNumber": 90,
+    "name": "Munna",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Rolling Fields",
+      "Stony Wilderness",
+      "Lake Axwell"
+    ],
+    "natlDex": 517,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/517.png"
+  },
+  {
+    "pokedexNumber": 91,
+    "name": "Musharna",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 518,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/518.png"
+  },
+  {
+    "pokedexNumber": 92,
+    "name": "Natu",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Rolling Fields",
+      "Giant's Mirror",
+      "Lake Miloch"
+    ],
+    "natlDex": 177,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/177.png"
+  },
+  {
+    "pokedexNumber": 93,
+    "name": "Xatu",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat"
+    ],
+    "natlDex": 178,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/178.png"
+  },
+  {
+    "pokedexNumber": 94,
+    "name": "Stufful",
+    "location": " ",
+    "evolutionLevel": "27",
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Dappled Grove",
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 759,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/759.png"
+  },
+  {
+    "pokedexNumber": 95,
+    "name": "Bewear",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Axew's Eye"
+    ],
+    "natlDex": 760,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/760.png"
+  },
+  {
+    "pokedexNumber": 96,
+    "name": "Snover",
+    "location": " ",
+    "evolutionLevel": "40",
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Route 10",
+      "Giant's Cap",
+      "Dappled Grove"
+    ],
+    "natlDex": 459,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/459.png"
+  },
+  {
+    "pokedexNumber": 97,
+    "name": "Abomasnow",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 10",
+      "Dusty Bowl"
+    ],
+    "natlDex": 460,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/460.png"
+  },
+  {
+    "pokedexNumber": 98,
+    "name": "Krabby",
+    "location": " ",
+    "evolutionLevel": "28",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 98,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/098.png"
+  },
+  {
+    "pokedexNumber": 99,
+    "name": "Kingler",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Route 9"
+    ],
+    "natlDex": 99,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/099.png"
+  },
+  {
+    "pokedexNumber": 100,
+    "name": "Wooper",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Stony Wilderness",
+      "Lake Axwell"
+    ],
+    "natlDex": 194,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/194.png"
+  },
+  {
+    "pokedexNumber": 101,
+    "name": "Quagsire",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Giant's Cap"
+    ],
+    "natlDex": 195,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/195.png"
+  },
+  {
+    "pokedexNumber": 102,
+    "name": "Corphish",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch"
+    ],
+    "natlDex": 341,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/341.png"
+  },
+  {
+    "pokedexNumber": 103,
+    "name": "Crawdaunt",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye"
+    ],
+    "natlDex": 342,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/342.png"
+  },
+  {
+    "pokedexNumber": 104,
+    "name": "Nincada",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 290,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/290.png"
+  },
+  {
+    "pokedexNumber": 105,
+    "name": "Ninjask",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Stony Wilderness"
+    ],
+    "natlDex": 291,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/291.png"
+  },
+  {
+    "pokedexNumber": 106,
+    "name": "Shedinja",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 292,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/292.png"
+  },
+  {
+    "pokedexNumber": 107,
+    "name": "Tyrogue",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 236,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/236.png"
+  },
+  {
+    "pokedexNumber": 108,
+    "name": "Hitmonlee",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl"
+    ],
+    "natlDex": 106,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/106.png"
+  },
+  {
+    "pokedexNumber": 109,
+    "name": "Hitmonchan",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl"
+    ],
+    "natlDex": 107,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/107.png"
+  },
+  {
+    "pokedexNumber": 110,
+    "name": "Hitmontop",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 237,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/237.png"
+  },
+  {
+    "pokedexNumber": 111,
+    "name": "Pancham",
+    "location": " ",
+    "evolutionLevel": "32",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Lake Axwell"
+    ],
+    "natlDex": 674,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/674.png"
+  },
+  {
+    "pokedexNumber": 112,
+    "name": "Pangoro",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 675,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/675.png"
+  },
+  {
+    "pokedexNumber": 113,
+    "name": "Klink",
+    "location": " ",
+    "evolutionLevel": "38",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch",
+      "Hammerlocke Hills",
+      "Lake Axwell"
+    ],
+    "natlDex": 599,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/599.png"
+  },
+  {
+    "pokedexNumber": 114,
+    "name": "Klang",
+    "location": " ",
+    "evolutionLevel": "49",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 10",
+      "Dusty Bowl"
+    ],
+    "natlDex": 600,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/600.png"
+  },
+  {
+    "pokedexNumber": 115,
+    "name": "Klinklang",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 601,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/601.png"
+  },
+  {
+    "pokedexNumber": 116,
+    "name": "Combee",
+    "location": " ",
+    "evolutionLevel": "21",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields"
+    ],
+    "natlDex": 415,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/415.png"
+  },
+  {
+    "pokedexNumber": 117,
+    "name": "Vespiquen",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 416,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/416.png"
+  },
+  {
+    "pokedexNumber": 118,
+    "name": "Bronzor",
+    "location": " ",
+    "evolutionLevel": "33",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Axew's Eye"
+    ],
+    "natlDex": 436,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/436.png"
+  },
+  {
+    "pokedexNumber": 119,
+    "name": "Bronzong",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Dusty Bowl"
+    ],
+    "natlDex": 437,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/437.png"
+  },
+  {
+    "pokedexNumber": 120,
+    "name": "Ralts",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Dappled Grove",
+      "Lake Miloch"
+    ],
+    "natlDex": 280,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/280.png"
+  },
+  {
+    "pokedexNumber": 121,
+    "name": "Kirlia",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 281,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/281.png"
+  },
+  {
+    "pokedexNumber": 122,
+    "name": "Gardevoir",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Dusty Bowl"
+    ],
+    "natlDex": 282,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/282.png"
+  },
+  {
+    "pokedexNumber": 123,
+    "name": "Gallade",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 475,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/475.png"
+  },
+  {
+    "pokedexNumber": 124,
+    "name": "Drifloon",
+    "location": " ",
+    "evolutionLevel": "28",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch",
+      "Watchtower Ruins"
+    ],
+    "natlDex": 425,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/425.png"
+  },
+  {
+    "pokedexNumber": 125,
+    "name": "Drifblim",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye"
+    ],
+    "natlDex": 426,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/426.png"
+  },
+  {
+    "pokedexNumber": 126,
+    "name": "Gossifleur",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 3",
+      "Motostoke Riverbank",
+      "Route 2"
+    ],
+    "natlDex": 829,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/829.png"
+  },
+  {
+    "pokedexNumber": 127,
+    "name": "Eldegoss",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl"
+    ],
+    "natlDex": 830,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/830.png"
+  },
+  {
+    "pokedexNumber": 128,
+    "name": "Cherubi",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Watchtower Ruins"
+    ],
+    "natlDex": 420,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/420.png"
+  },
+  {
+    "pokedexNumber": 129,
+    "name": "Cherrim",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 421,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/421.png"
+  },
+  {
+    "pokedexNumber": 130,
+    "name": "Stunky",
+    "location": " ",
+    "evolutionLevel": "34",
+    "isCaught": false,
+    "locationWorld": [
+      "Dappled Frove",
+      "Lake Miloch"
+    ],
+    "natlDex": 434,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/434.png"
+  },
+  {
+    "pokedexNumber": 131,
+    "name": "Skuntank",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Dusty Bowl"
+    ],
+    "natlDex": 435,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/435.png"
+  },
+  {
+    "pokedexNumber": 132,
+    "name": "Tympole",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Dappled Grove",
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 535,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/535.png"
+  },
+  {
+    "pokedexNumber": 133,
+    "name": "Palpitoad",
+    "location": " ",
+    "evolutionLevel": "36",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Bridge Field",
+      "Dusty Bowl"
+    ],
+    "natlDex": 536,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/536.png"
+  },
+  {
+    "pokedexNumber": 134,
+    "name": "Seismitoad",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Route 7"
+    ],
+    "natlDex": 537,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/537.png"
+  },
+  {
+    "pokedexNumber": 135,
+    "name": "Duskull",
+    "location": " ",
+    "evolutionLevel": "37",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Watchtower Ruins"
+    ],
+    "natlDex": 355,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/355.png"
+  },
+  {
+    "pokedexNumber": 136,
+    "name": "Dusclops",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 8"
+    ],
+    "natlDex": 356,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/356.png"
+  },
+  {
+    "pokedexNumber": 137,
+    "name": "Dusknoir",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 477,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/477.png"
+  },
+  {
+    "pokedexNumber": 138,
+    "name": "Machop",
+    "location": " ",
+    "evolutionLevel": "28",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch",
+      "Stony Wilderness",
+      "Watchtower Ruins"
+    ],
+    "natlDex": 66,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/066.png"
+  },
+  {
+    "pokedexNumber": 139,
+    "name": "Machoke",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Axew's Eye",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 67,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/067.png"
+  },
+  {
+    "pokedexNumber": 140,
+    "name": "Machamp",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 68,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/068.png"
+  },
+  {
+    "pokedexNumber": 141,
+    "name": "Gastly",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Lake Miloch",
+      "Watchtower Ruins"
+    ],
+    "natlDex": 92,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/092.png"
+  },
+  {
+    "pokedexNumber": 142,
+    "name": "Haunter",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Route 8"
+    ],
+    "natlDex": 93,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/093.png"
+  },
+  {
+    "pokedexNumber": 143,
+    "name": "Gengar",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 94,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/094.png"
+  },
+  {
+    "pokedexNumber": 144,
+    "name": "Magikarp",
+    "location": " ",
+    "evolutionLevel": "20",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Route 5",
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 129,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/129.png"
+  },
+  {
+    "pokedexNumber": 145,
+    "name": "Gyarados",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Giant's Cap",
+      "Dusty Bowl"
+    ],
+    "natlDex": 130,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/130.png"
+  },
+  {
+    "pokedexNumber": 146,
+    "name": "Goldeen",
+    "location": " ",
+    "evolutionLevel": "33",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Axwell"
+    ],
+    "natlDex": 118,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/118.png"
+  },
+  {
+    "pokedexNumber": 147,
+    "name": "Seaking",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 119,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/119.png"
+  },
+  {
+    "pokedexNumber": 148,
+    "name": "Remoraid",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 223,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/223.png"
+  },
+  {
+    "pokedexNumber": 149,
+    "name": "Octillery",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye",
+      "Route 9"
+    ],
+    "natlDex": 224,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/224.png"
+  },
+  {
+    "pokedexNumber": 150,
+    "name": "Shellder",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Lake Axwell"
+    ],
+    "natlDex": 90,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/090.png"
+  },
+  {
+    "pokedexNumber": 151,
+    "name": "Cloyster",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat"
+    ],
+    "natlDex": 91,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/091.png"
+  },
+  {
+    "pokedexNumber": 152,
+    "name": "Feebas",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2"
+    ],
+    "natlDex": 349,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/349.png"
+  },
+  {
+    "pokedexNumber": 153,
+    "name": "Milotic",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 350,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/350.png"
+  },
+  {
+    "pokedexNumber": 154,
+    "name": "Basculin",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Motostoke Riverbank",
+      "Town of Hulbury"
+    ],
+    "natlDex": 550,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/550.png"
+  },
+  {
+    "pokedexNumber": 155,
+    "name": "Wishiwashi",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Town of Hulbury",
+      "Lake Axwell"
+    ],
+    "natlDex": 746,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/746.png"
+  },
+  {
+    "pokedexNumber": 156,
+    "name": "Pyukumuku",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Route 9",
+      "Lake Miloch"
+    ],
+    "natlDex": 771,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/771.png"
+  },
+  {
+    "pokedexNumber": 157,
+    "name": "Trubbish",
+    "location": " ",
+    "evolutionLevel": "36",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 3"
+    ],
+    "natlDex": 568,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/568.png"
+  },
+  {
+    "pokedexNumber": 158,
+    "name": "Garbodor",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 569,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/569.png"
+  },
+  {
+    "pokedexNumber": 159,
+    "name": "Sizzlipede",
+    "location": " ",
+    "evolutionLevel": "28",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 3"
+    ],
+    "natlDex": 850,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/850.png"
+  },
+  {
+    "pokedexNumber": 160,
+    "name": "Centiskorch",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 851,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/851.png"
+  },
+  {
+    "pokedexNumber": 161,
+    "name": "Rolycoly",
+    "location": " ",
+    "evolutionLevel": "18",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 3",
+      "Giant's Cap",
+      "Galar Mine"
+    ],
+    "natlDex": 837,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/837.png"
+  },
+  {
+    "pokedexNumber": 162,
+    "name": "Carkol",
+    "location": " ",
+    "evolutionLevel": "34",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 10",
+      "Giant's Cap",
+      "Bridge Field"
+    ],
+    "natlDex": 838,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/838.png"
+  },
+  {
+    "pokedexNumber": 163,
+    "name": "Coalossal",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Dusty Bowl"
+    ],
+    "natlDex": 839,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/839.png"
+  },
+  {
+    "pokedexNumber": 164,
+    "name": "Diglett",
+    "location": " ",
+    "evolutionLevel": "26",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Giant's Mirror",
+      "Galar Mine"
+    ],
+    "natlDex": 50,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/050.png"
+  },
+  {
+    "pokedexNumber": 165,
+    "name": "Dugtrio",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror",
+      "Hammerlocke Hills",
+      "Dusty Bowl"
+    ],
+    "natlDex": 51,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/051.png"
+  },
+  {
+    "pokedexNumber": 166,
+    "name": "Drilbur",
+    "location": " ",
+    "evolutionLevel": "31",
+    "isCaught": false,
+    "locationWorld": [
+      "Stony Wilderness",
+      "Dusty Bowl",
+      "Galar Mine"
+    ],
+    "natlDex": 529,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/529.png"
+  },
+  {
+    "pokedexNumber": 167,
+    "name": "Excadrill",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Giant's Mirror"
+    ],
+    "natlDex": 530,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/530.png"
+  },
+  {
+    "pokedexNumber": 168,
+    "name": "Roggenrola",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Rolling Fields",
+      "Motostoke Outskirts",
+      "Stony Wilderness",
+      "Galar Mine"
+    ],
+    "natlDex": 524,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/524.png"
+  },
+  {
+    "pokedexNumber": 169,
+    "name": "Boldore",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Giant's Mirror",
+      "Stony Wilderness"
+    ],
+    "natlDex": 525,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/525.png"
+  },
+  {
+    "pokedexNumber": 170,
+    "name": "Gigalith",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 526,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/526.png"
+  },
+  {
+    "pokedexNumber": 171,
+    "name": "Timburr",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Galar Mine"
+    ],
+    "natlDex": 532,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/532.png"
+  },
+  {
+    "pokedexNumber": 172,
+    "name": "Gurdurr",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 8",
+      "Stony Wilderness"
+    ],
+    "natlDex": 533,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/533.png"
+  },
+  {
+    "pokedexNumber": 173,
+    "name": "Conkeldurr",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 534,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/534.png"
+  },
+  {
+    "pokedexNumber": 174,
+    "name": "Woobat",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror",
+      "Watchtower Ruins",
+      "Galar Mine"
+    ],
+    "natlDex": 527,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/527.png"
+  },
+  {
+    "pokedexNumber": 175,
+    "name": "Swoobat",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 528,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/528.png"
+  },
+  {
+    "pokedexNumber": 176,
+    "name": "Noibat",
+    "location": " ",
+    "evolutionLevel": "48",
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Watchtower Ruins",
+      "Galar Mine"
+    ],
+    "natlDex": 714,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/714.png"
+  },
+  {
+    "pokedexNumber": 177,
+    "name": "Noivern",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 715,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/715.png"
+  },
+  {
+    "pokedexNumber": 178,
+    "name": "Onix",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Seat",
+      "Motostoke Riverbank",
+      "Lake Axwell"
+    ],
+    "natlDex": 95,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/095.png"
+  },
+  {
+    "pokedexNumber": 179,
+    "name": "Steelix",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 208,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/208.png"
+  },
+  {
+    "pokedexNumber": 180,
+    "name": "Arrokuda",
+    "location": " ",
+    "evolutionLevel": "26",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Motostoke Riverbank",
+      "Town of Hulbury"
+    ],
+    "natlDex": 846,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/846.png"
+  },
+  {
+    "pokedexNumber": 181,
+    "name": "Barraskewda",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 2",
+      "Lake of Outrage",
+      "Motostoke Riverbank",
+      "Dusty Bowl"
+    ],
+    "natlDex": 847,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/847.png"
+  },
+  {
+    "pokedexNumber": 182,
+    "name": "Meowth",
+    "location": " ",
+    "evolutionLevel": "28",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 4"
+    ],
+    "natlDex": 52,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/052.png"
+  },
+  {
+    "pokedexNumber": 183,
+    "name": "Perrserker",
+    "location": " ",
+    "evolutionLevel": "28",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 7",
+      "Route 9"
+    ],
+    "natlDex": 863,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/863.png"
+  },
+  {
+    "pokedexNumber": 184,
+    "name": "Persian",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 53,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/053.png"
+  },
+  {
+    "pokedexNumber": 185,
+    "name": "Milcery",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 4",
+      "Bridge Field",
+      "Giant's Mirror"
+    ],
+    "natlDex": 868,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/868.png"
+  },
+  {
+    "pokedexNumber": 186,
+    "name": "Alcremie",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 869,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/869.png"
+  },
+  {
+    "pokedexNumber": 187,
+    "name": "Cutiefly",
+    "location": " ",
+    "evolutionLevel": "25",
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Route 4",
+      "Galar Mine"
+    ],
+    "natlDex": 742,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/742.png"
+  },
+  {
+    "pokedexNumber": 188,
+    "name": "Ribombee",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Stony Wilderness"
+    ],
+    "natlDex": 743,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/743.png"
+  },
+  {
+    "pokedexNumber": 189,
+    "name": "Ferroseed",
+    "location": " ",
+    "evolutionLevel": "40",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Route 4",
+      "Stony Wilderness"
+    ],
+    "natlDex": 597,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/597.png"
+  },
+  {
+    "pokedexNumber": 190,
+    "name": "Ferrothorn",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl"
+    ],
+    "natlDex": 598,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/598.png"
+  },
+  {
+    "pokedexNumber": 191,
+    "name": "Pumpkaboo",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 4",
+      "Giant's Mirror",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 710,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/710.png"
+  },
+  {
+    "pokedexNumber": 192,
+    "name": "Gourgeist",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 711,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/711.png"
+  },
+  {
+    "pokedexNumber": 193,
+    "name": "Pichu",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 172,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/172.png"
+  },
+  {
+    "pokedexNumber": 194,
+    "name": "Pikachu",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 4",
+      "Stony Wilderness"
+    ],
+    "natlDex": 25,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/025.png"
+  },
+  {
+    "pokedexNumber": 195,
+    "name": "Raichu",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 26,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/026.png"
+  },
+  {
+    "pokedexNumber": 196,
+    "name": "Eevee",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 4"
+    ],
+    "natlDex": 133,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/133.png"
+  },
+  {
+    "pokedexNumber": 197,
+    "name": "Vaporeon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 134,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/134.png"
+  },
+  {
+    "pokedexNumber": 198,
+    "name": "Jolteon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 135,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/135.png"
+  },
+  {
+    "pokedexNumber": 199,
+    "name": "Flareon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 136,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/136.png"
+  },
+  {
+    "pokedexNumber": 200,
+    "name": "Espeon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 196,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/196.png"
+  },
+  {
+    "pokedexNumber": 201,
+    "name": "Umbreon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 197,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/197.png"
+  },
+  {
+    "pokedexNumber": 202,
+    "name": "Leafeon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 470,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/470.png"
+  },
+  {
+    "pokedexNumber": 203,
+    "name": "Glaceon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 471,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/471.png"
+  },
+  {
+    "pokedexNumber": 204,
+    "name": "Sylveon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 700,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/700.png"
+  },
+  {
+    "pokedexNumber": 205,
+    "name": "Applin",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 5",
+      "Giant's Mirror",
+      "Stony Wilderness",
+      "Dusty Bowl"
+    ],
+    "natlDex": 840,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/840.png"
+  },
+  {
+    "pokedexNumber": 206,
+    "name": "Flapple",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 841,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/841.png"
+  },
+  {
+    "pokedexNumber": 207,
+    "name": "Appletun",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 842,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/842.png"
+  },
+  {
+    "pokedexNumber": 208,
+    "name": "Espurr",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 677,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/677.png"
+  },
+  {
+    "pokedexNumber": 209,
+    "name": "Meowstic",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 7",
+      "Dusty Bowl"
+    ],
+    "natlDex": 678,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/678.png"
+  },
+  {
+    "pokedexNumber": 210,
+    "name": "Swirlix",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 5",
+      "Giant's Mirror",
+      "Stony Wilderness",
+      "Glimwood Tangle"
+    ],
+    "natlDex": 684,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/684.png"
+  },
+  {
+    "pokedexNumber": 211,
+    "name": "Slurpuff",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 685,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/685.png"
+  },
+  {
+    "pokedexNumber": 212,
+    "name": "Spritzee",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 5",
+      "Giant's Mirror",
+      "Stony Wilderness",
+      "Glimwood Tangle"
+    ],
+    "natlDex": 682,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/682.png"
+  },
+  {
+    "pokedexNumber": 213,
+    "name": "Aromatisse",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 683,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/683.png"
+  },
+  {
+    "pokedexNumber": 214,
+    "name": "Dewpider",
+    "location": " ",
+    "evolutionLevel": "22",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 5",
+      "Stony Wilderness"
+    ],
+    "natlDex": 751,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/751.png"
+  },
+  {
+    "pokedexNumber": 215,
+    "name": "Araquanid",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 752,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/752.png"
+  },
+  {
+    "pokedexNumber": 216,
+    "name": "Wynaut",
+    "location": " ",
+    "evolutionLevel": "15",
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 360,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/360.png"
+  },
+  {
+    "pokedexNumber": 217,
+    "name": "Wobbuffet",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 5",
+      "Bridge Field",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 202,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/202.png"
+  },
+  {
+    "pokedexNumber": 218,
+    "name": "Farfetchd",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 5",
+      "Giant's Hill"
+    ],
+    "natlDex": 83,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/083.png"
+  },
+  {
+    "pokedexNumber": 219,
+    "name": "Sirfetchd",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 865,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/865.png"
+  },
+  {
+    "pokedexNumber": 220,
+    "name": "Chinchou",
+    "location": " ",
+    "evolutionLevel": "27",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror",
+      "Town of Hulbury",
+      "Lake Axwell"
+    ],
+    "natlDex": 170,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/170.png"
+  },
+  {
+    "pokedexNumber": 221,
+    "name": "Lanturn",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Bridge Field",
+      "Dusty Bowl"
+    ],
+    "natlDex": 171,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/171.png"
+  },
+  {
+    "pokedexNumber": 222,
+    "name": "Croagunk",
+    "location": " ",
+    "evolutionLevel": "37",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Outskirts",
+      "Dusty Bowl",
+      "Galar Mine"
+    ],
+    "natlDex": 453,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/453.png"
+  },
+  {
+    "pokedexNumber": 223,
+    "name": "Toxicroak",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Stony Wilderness"
+    ],
+    "natlDex": 454,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/454.png"
+  },
+  {
+    "pokedexNumber": 224,
+    "name": "Scraggy",
+    "location": " ",
+    "evolutionLevel": "39",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Bridge Field",
+      "Galar Mine"
+    ],
+    "natlDex": 559,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/559.png"
+  },
+  {
+    "pokedexNumber": 225,
+    "name": "Scrafty",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Outskirts",
+      "Galar Mine"
+    ],
+    "natlDex": 560,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/560.png"
+  },
+  {
+    "pokedexNumber": 226,
+    "name": "Stunfisk",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl",
+      "Galar Mine"
+    ],
+    "natlDex": 618,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/618.png"
+  },
+  {
+    "pokedexNumber": 227,
+    "name": "Shuckle",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Stony Wilderness",
+      "Watchtower Ruins",
+      "Galar Mine"
+    ],
+    "natlDex": 213,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/213.png"
+  },
+  {
+    "pokedexNumber": 228,
+    "name": "Barboach",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch",
+      "Galar Mine"
+    ],
+    "natlDex": 339,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/339.png"
+  },
+  {
+    "pokedexNumber": 229,
+    "name": "Whiscash",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Slumbering Weald"
+    ],
+    "natlDex": 340,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/340.png"
+  },
+  {
+    "pokedexNumber": 230,
+    "name": "Shellos",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Giant's Mirror",
+      "Galar Mine",
+      "Dusty Bowl",
+      "Motostoke Riverbank"
+    ],
+    "natlDex": 422,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/422.png"
+  },
+  {
+    "pokedexNumber": 231,
+    "name": "Gastrodon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 423,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/423.png"
+  },
+  {
+    "pokedexNumber": 232,
+    "name": "Wimpod",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Bridge Field",
+      "Galar Mine"
+    ],
+    "natlDex": 767,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/767.png"
+  },
+  {
+    "pokedexNumber": 233,
+    "name": "Golisopod",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 768,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/768.png"
+  },
+  {
+    "pokedexNumber": 234,
+    "name": "Binacle",
+    "location": " ",
+    "evolutionLevel": "39",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Bridge Field",
+      "Galar Mine"
+    ],
+    "natlDex": 688,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/688.png"
+  },
+  {
+    "pokedexNumber": 235,
+    "name": "Barbaracle",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 9",
+      "Dusty Bowl"
+    ],
+    "natlDex": 689,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/689.png"
+  },
+  {
+    "pokedexNumber": 236,
+    "name": "Corsola",
+    "location": " ",
+    "evolutionLevel": "38",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror"
+    ],
+    "natlDex": 222,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/222.png"
+  },
+  {
+    "pokedexNumber": 237,
+    "name": "Cursola",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 864,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/864.png"
+  },
+  {
+    "pokedexNumber": 238,
+    "name": "Impidimp",
+    "location": " ",
+    "evolutionLevel": "32",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Outskirts",
+      "Giant's Mirror",
+      "Stony Wilderness"
+    ],
+    "natlDex": 859,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/859.png"
+  },
+  {
+    "pokedexNumber": 239,
+    "name": "Morgrem",
+    "location": " ",
+    "evolutionLevel": "42",
+    "isCaught": false,
+    "locationWorld": [
+      "Glimwood Tangle"
+    ],
+    "natlDex": 860,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/860.png"
+  },
+  {
+    "pokedexNumber": 240,
+    "name": "Grimmsnarl",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 861,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/861.png"
+  },
+  {
+    "pokedexNumber": 241,
+    "name": "Hatenna",
+    "location": " ",
+    "evolutionLevel": "32",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Outskirts",
+      "Stony Wilderness",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 856,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/856.png"
+  },
+  {
+    "pokedexNumber": 242,
+    "name": "Hattrem",
+    "location": " ",
+    "evolutionLevel": "42",
+    "isCaught": false,
+    "locationWorld": [
+      "Glimwood Tangle",
+      "Dusty Bowl"
+    ],
+    "natlDex": 857,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/857.png"
+  },
+  {
+    "pokedexNumber": 243,
+    "name": "Hatterene",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 858,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/858.png"
+  },
+  {
+    "pokedexNumber": 244,
+    "name": "Salandit",
+    "location": " ",
+    "evolutionLevel": "33",
+    "isCaught": false,
+    "locationWorld": [
+      "Stony Wilderness"
+    ],
+    "natlDex": 757,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/757.png"
+  },
+  {
+    "pokedexNumber": 245,
+    "name": "Salazzle",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 758,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/758.png"
+  },
+  {
+    "pokedexNumber": 246,
+    "name": "Pawniard",
+    "location": " ",
+    "evolutionLevel": "52",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror",
+      "Motostoke Riverbank",
+      "Motostoke Outskirts",
+      "Route 8",
+      "Stony Wilderness"
+    ],
+    "natlDex": 624,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/624.png"
+  },
+  {
+    "pokedexNumber": 247,
+    "name": "Bisharp",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 625,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/625.png"
+  },
+  {
+    "pokedexNumber": 248,
+    "name": "Throh",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Outskirts",
+      "Giant's Mirror",
+      "Bridge Field"
+    ],
+    "natlDex": 538,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/538.png"
+  },
+  {
+    "pokedexNumber": 249,
+    "name": "Sawk",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Outskirts",
+      "Giant's Mirror"
+    ],
+    "natlDex": 539,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/539.png"
+  },
+  {
+    "pokedexNumber": 250,
+    "name": "Koffing",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Giant's Mirror",
+      "Dusty Bowl"
+    ],
+    "natlDex": 109,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/109.png"
+  },
+  {
+    "pokedexNumber": 251,
+    "name": "Weezing",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Slumbering Weald"
+    ],
+    "natlDex": 110,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/110.png"
+  },
+  {
+    "pokedexNumber": 252,
+    "name": "Bonsly",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Stony Wilderness"
+    ],
+    "natlDex": 438,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/438.png"
+  },
+  {
+    "pokedexNumber": 253,
+    "name": "Sudowoodo",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Outskirts",
+      "Bridge Field",
+      "Hammerlocke Hills",
+      "Dusty Bowl"
+    ],
+    "natlDex": 185,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/185.png"
+  },
+  {
+    "pokedexNumber": 254,
+    "name": "Cleffa",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 173,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/173.png"
+  },
+  {
+    "pokedexNumber": 255,
+    "name": "Clefairy",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Motostoke Riverbank"
+    ],
+    "natlDex": 35,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/035.png"
+  },
+  {
+    "pokedexNumber": 256,
+    "name": "Clefable",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 36,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/036.png"
+  },
+  {
+    "pokedexNumber": 257,
+    "name": "Togepi",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field"
+    ],
+    "natlDex": 175,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/175.png"
+  },
+  {
+    "pokedexNumber": 258,
+    "name": "Togetic",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Stony Wilderness"
+    ],
+    "natlDex": 176,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/176.png"
+  },
+  {
+    "pokedexNumber": 259,
+    "name": "Togekiss",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl"
+    ],
+    "natlDex": 468,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/468.png"
+  },
+  {
+    "pokedexNumber": 260,
+    "name": "Munchlax",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank"
+    ],
+    "natlDex": 446,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/446.png"
+  },
+  {
+    "pokedexNumber": 261,
+    "name": "Snorlax",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge between North Lake Miloch and Motostoke Riverbank"
+    ],
+    "natlDex": 143,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/143.png"
+  },
+  {
+    "pokedexNumber": 262,
+    "name": "Cottonee",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Stony Wilderness"
+    ],
+    "natlDex": 546,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/546.png"
+  },
+  {
+    "pokedexNumber": 263,
+    "name": "Whimsicott",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 547,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/547.png"
+  },
+  {
+    "pokedexNumber": 264,
+    "name": "Rhyhorn",
+    "location": " ",
+    "evolutionLevel": "42",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Bridge Field",
+      "Giant's Mirror",
+      "Stony Wilderness"
+    ],
+    "natlDex": 111,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/111.png"
+  },
+  {
+    "pokedexNumber": 265,
+    "name": "Rhydon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Dusty Bowl"
+    ],
+    "natlDex": 112,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/112.png"
+  },
+  {
+    "pokedexNumber": 266,
+    "name": "Rhyperior",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 464,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/464.png"
+  },
+  {
+    "pokedexNumber": 267,
+    "name": "Gothita",
+    "location": " ",
+    "evolutionLevel": "32",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap"
+    ],
+    "natlDex": 574,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/574.png"
+  },
+  {
+    "pokedexNumber": 268,
+    "name": "Gothorita",
+    "location": " ",
+    "evolutionLevel": "41",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Dusty Bowl"
+    ],
+    "natlDex": 575,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/575.png"
+  },
+  {
+    "pokedexNumber": 269,
+    "name": "Gothitelle",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 576,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/576.png"
+  },
+  {
+    "pokedexNumber": 270,
+    "name": "Solosis",
+    "location": " ",
+    "evolutionLevel": "32",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap"
+    ],
+    "natlDex": 577,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/577.png"
+  },
+  {
+    "pokedexNumber": 271,
+    "name": "Duosion",
+    "location": " ",
+    "evolutionLevel": "41",
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl"
+    ],
+    "natlDex": 578,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/578.png"
+  },
+  {
+    "pokedexNumber": 272,
+    "name": "Reuniclus",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 579,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/579.png"
+  },
+  {
+    "pokedexNumber": 273,
+    "name": "Karrablast",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Bridge Field",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 588,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/588.png"
+  },
+  {
+    "pokedexNumber": 274,
+    "name": "Escavalier",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 589,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/589.png"
+  },
+  {
+    "pokedexNumber": 275,
+    "name": "Shelmet",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Bridge Field",
+      "Route 7"
+    ],
+    "natlDex": 616,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/616.png"
+  },
+  {
+    "pokedexNumber": 276,
+    "name": "Accelgor",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 617,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/617.png"
+  },
+  {
+    "pokedexNumber": 277,
+    "name": "Elgyem",
+    "location": " ",
+    "evolutionLevel": "42",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Bridge Field"
+    ],
+    "natlDex": 605,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/605.png"
+  },
+  {
+    "pokedexNumber": 278,
+    "name": "Beheeyem",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 606,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/606.png"
+  },
+  {
+    "pokedexNumber": 279,
+    "name": "Cubchoo",
+    "location": " ",
+    "evolutionLevel": "37",
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Hammerlocke Hills",
+      "Stony Wilderness"
+    ],
+    "natlDex": 613,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/613.png"
+  },
+  {
+    "pokedexNumber": 280,
+    "name": "Beartic",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 10"
+    ],
+    "natlDex": 614,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/614.png"
+  },
+  {
+    "pokedexNumber": 281,
+    "name": "Rufflet",
+    "location": " ",
+    "evolutionLevel": "54",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 8",
+      "Bridge Field",
+      "Stony Wilderness"
+    ],
+    "natlDex": 627,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/627.png"
+  },
+  {
+    "pokedexNumber": 282,
+    "name": "Braviary",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl"
+    ],
+    "natlDex": 628,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/628.png"
+  },
+  {
+    "pokedexNumber": 283,
+    "name": "Vullaby",
+    "location": " ",
+    "evolutionLevel": "54",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 8",
+      "Bridge Field",
+      "Stony Wilderness"
+    ],
+    "natlDex": 629,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/629.png"
+  },
+  {
+    "pokedexNumber": 284,
+    "name": "Mandibuzz",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Dusty Bowl"
+    ],
+    "natlDex": 630,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/630.png"
+  },
+  {
+    "pokedexNumber": 285,
+    "name": "Skorupi",
+    "location": " ",
+    "evolutionLevel": "40",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Route 6"
+    ],
+    "natlDex": 451,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/451.png"
+  },
+  {
+    "pokedexNumber": 286,
+    "name": "Drapion",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 8"
+    ],
+    "natlDex": 452,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/452.png"
+  },
+  {
+    "pokedexNumber": 287,
+    "name": "Litwick",
+    "location": " ",
+    "evolutionLevel": "41",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Bridge Field"
+    ],
+    "natlDex": 607,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/607.png"
+  },
+  {
+    "pokedexNumber": 288,
+    "name": "Lampent",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 608,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/608.png"
+  },
+  {
+    "pokedexNumber": 289,
+    "name": "Chandelure",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 609,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/609.png"
+  },
+  {
+    "pokedexNumber": 290,
+    "name": "Inkay",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Giant's Mirror",
+      "Hammerlocke Hills",
+      "Dusty Bowl",
+      "Route 7"
+    ],
+    "natlDex": 686,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/686.png"
+  },
+  {
+    "pokedexNumber": 291,
+    "name": "Malamar",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 687,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/687.png"
+  },
+  {
+    "pokedexNumber": 292,
+    "name": "Sneasel",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Bridge Field",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 215,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/215.png"
+  },
+  {
+    "pokedexNumber": 293,
+    "name": "Weavile",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 461,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/461.png"
+  },
+  {
+    "pokedexNumber": 294,
+    "name": "Sableye",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Dusty Bowl"
+    ],
+    "natlDex": 302,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/302.png"
+  },
+  {
+    "pokedexNumber": 295,
+    "name": "Mawile",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Dusty Bowl"
+    ],
+    "natlDex": 303,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/303.png"
+  },
+  {
+    "pokedexNumber": 296,
+    "name": "Maractus",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field",
+      "Stony Wilderness"
+    ],
+    "natlDex": 556,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/556.png"
+  },
+  {
+    "pokedexNumber": 297,
+    "name": "Sigilyph",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Motostoke Riverbank",
+      "Stony Wilderness"
+    ],
+    "natlDex": 561,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/561.png"
+  },
+  {
+    "pokedexNumber": 298,
+    "name": "Riolu",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap"
+    ],
+    "natlDex": 447,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/447.png"
+  },
+  {
+    "pokedexNumber": 299,
+    "name": "Lucario",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 448,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/448.png"
+  },
+  {
+    "pokedexNumber": 300,
+    "name": "Torkoal",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Route 6",
+      "Giant's Mirror",
+      "Motostoke Riverbank"
+    ],
+    "natlDex": 324,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/324.png"
+  },
+  {
+    "pokedexNumber": 301,
+    "name": "Mimikyu",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror"
+    ],
+    "natlDex": 778,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/778.png"
+  },
+  {
+    "pokedexNumber": 302,
+    "name": "Cufant",
+    "location": " ",
+    "evolutionLevel": "34",
+    "isCaught": false,
+    "locationWorld": [
+      "Bridge Field"
+    ],
+    "natlDex": 878,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/878.png"
+  },
+  {
+    "pokedexNumber": 303,
+    "name": "Copperajah",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 879,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/879.png"
+  },
+  {
+    "pokedexNumber": 304,
+    "name": "Qwilfish",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9",
+      "Bridge Field",
+      "Dusty Bowl"
+    ],
+    "natlDex": 211,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/211.png"
+  },
+  {
+    "pokedexNumber": 305,
+    "name": "Frillish",
+    "location": " ",
+    "evolutionLevel": "40",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake Miloch",
+      "Lake Axwell"
+    ],
+    "natlDex": 592,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/592.png"
+  },
+  {
+    "pokedexNumber": 306,
+    "name": "Jellicent",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 9"
+    ],
+    "natlDex": 593,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/593.png"
+  },
+  {
+    "pokedexNumber": 307,
+    "name": "Mareanie",
+    "location": " ",
+    "evolutionLevel": "38",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Route 9",
+      "Giant's Mirror"
+    ],
+    "natlDex": 747,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/747.png"
+  },
+  {
+    "pokedexNumber": 308,
+    "name": "Toxapex",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 748,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/748.png"
+  },
+  {
+    "pokedexNumber": 309,
+    "name": "Cramorant",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Bridge Field",
+      "Stony Wilderness",
+      "Route 9"
+    ],
+    "natlDex": 845,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/845.png"
+  },
+  {
+    "pokedexNumber": 310,
+    "name": "Toxel",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Motostoke Riverbank",
+      "Route 7",
+      "Stony Wilderness"
+    ],
+    "natlDex": 848,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/848.png"
+  },
+  {
+    "pokedexNumber": 311,
+    "name": "Toxtricity",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 849,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/849.png"
+  },
+  {
+    "pokedexNumber": 312,
+    "name": "Silicobra",
+    "location": " ",
+    "evolutionLevel": "36",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 6"
+    ],
+    "natlDex": 843,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/843.png"
+  },
+  {
+    "pokedexNumber": 313,
+    "name": "Sandaconda",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 8"
+    ],
+    "natlDex": 844,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/844.png"
+  },
+  {
+    "pokedexNumber": 314,
+    "name": "Hippopotas",
+    "location": " ",
+    "evolutionLevel": "34",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 6",
+      "Dusty Bowl"
+    ],
+    "natlDex": 449,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/449.png"
+  },
+  {
+    "pokedexNumber": 315,
+    "name": "Hippowdon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Giant's Mirror",
+      "Route 8"
+    ],
+    "natlDex": 450,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/450.png"
+  },
+  {
+    "pokedexNumber": 316,
+    "name": "Durant",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror",
+      "Route 6"
+    ],
+    "natlDex": 632,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/632.png"
+  },
+  {
+    "pokedexNumber": 317,
+    "name": "Heatmor",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror",
+      "Route 6"
+    ],
+    "natlDex": 631,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/631.png"
+  },
+  {
+    "pokedexNumber": 318,
+    "name": "Helioptile",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror",
+      "Route 6"
+    ],
+    "natlDex": 694,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/694.png"
+  },
+  {
+    "pokedexNumber": 319,
+    "name": "Heliolisk",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 695,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/695.png"
+  },
+  {
+    "pokedexNumber": 320,
+    "name": "Hawlucha",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 6",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 701,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/701.png"
+  },
+  {
+    "pokedexNumber": 321,
+    "name": "Trapinch",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 6"
+    ],
+    "natlDex": 328,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/328.png"
+  },
+  {
+    "pokedexNumber": 322,
+    "name": "Vibrava",
+    "location": " ",
+    "evolutionLevel": "45",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 329,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/329.png"
+  },
+  {
+    "pokedexNumber": 323,
+    "name": "Flygon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 330,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/330.png"
+  },
+  {
+    "pokedexNumber": 324,
+    "name": "Axew",
+    "location": " ",
+    "evolutionLevel": "38",
+    "isCaught": false,
+    "locationWorld": [
+      "Axew's Eye"
+    ],
+    "natlDex": 610,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/610.png"
+  },
+  {
+    "pokedexNumber": 325,
+    "name": "Fraxure",
+    "location": " ",
+    "evolutionLevel": "48",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 611,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/611.png"
+  },
+  {
+    "pokedexNumber": 326,
+    "name": "Haxorus",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 612,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/612.png"
+  },
+  {
+    "pokedexNumber": 327,
+    "name": "Yamask",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 6"
+    ],
+    "natlDex": 562,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/562.png"
+  },
+  {
+    "pokedexNumber": 328,
+    "name": "Runerigus",
+    "location": " ",
+    "evolutionLevel": "34",
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 867,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/867.png"
+  },
+  {
+    "pokedexNumber": 329,
+    "name": "Cofagrigus",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 563,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/563.png"
+  },
+  {
+    "pokedexNumber": 330,
+    "name": "Honedge",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 679,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/679.png"
+  },
+  {
+    "pokedexNumber": 331,
+    "name": "Doublade",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 680,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/680.png"
+  },
+  {
+    "pokedexNumber": 332,
+    "name": "Aegislash",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 681,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/681.png"
+  },
+  {
+    "pokedexNumber": 333,
+    "name": "Ponyta",
+    "location": " ",
+    "evolutionLevel": "40",
+    "isCaught": false,
+    "locationWorld": [
+      "Glimwood Tangle"
+    ],
+    "natlDex": 77,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/077.png"
+  },
+  {
+    "pokedexNumber": 334,
+    "name": "Rapidash",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 78,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/078.png"
+  },
+  {
+    "pokedexNumber": 335,
+    "name": "Sinistea",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Glimwood Tangle"
+    ],
+    "natlDex": 854,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/854.png"
+  },
+  {
+    "pokedexNumber": 336,
+    "name": "Polteageist",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 855,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/855.png"
+  },
+  {
+    "pokedexNumber": 337,
+    "name": "Indeedee",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Glimwood Tangle"
+    ],
+    "natlDex": 876,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/876.png"
+  },
+  {
+    "pokedexNumber": 338,
+    "name": "Phantump",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Glimwood Tangle"
+    ],
+    "natlDex": 708,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/708.png"
+  },
+  {
+    "pokedexNumber": 339,
+    "name": "Trevenant",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 709,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/709.png"
+  },
+  {
+    "pokedexNumber": 340,
+    "name": "Morelull",
+    "location": " ",
+    "evolutionLevel": "24",
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Mirror",
+      "Hammerlocke Hills"
+    ],
+    "natlDex": 755,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/755.png"
+  },
+  {
+    "pokedexNumber": 341,
+    "name": "Shiinotic",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Glimwood Tangle"
+    ],
+    "natlDex": 756,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/756.png"
+  },
+  {
+    "pokedexNumber": 342,
+    "name": "Oranguru",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Glimwood Tangle"
+    ],
+    "natlDex": 765,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/765.png"
+  },
+  {
+    "pokedexNumber": 343,
+    "name": "Passimian",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Glimwood Tangle"
+    ],
+    "natlDex": 766,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/766.png"
+  },
+  {
+    "pokedexNumber": 344,
+    "name": "Morpeko",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 877,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/877.png"
+  },
+  {
+    "pokedexNumber": 345,
+    "name": "Falinks",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 8"
+    ],
+    "natlDex": 870,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/870.png"
+  },
+  {
+    "pokedexNumber": 346,
+    "name": "Drampa",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 780,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/780.png"
+  },
+  {
+    "pokedexNumber": 347,
+    "name": "Turtonator",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 776,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/776.png"
+  },
+  {
+    "pokedexNumber": 348,
+    "name": "Togedemaru",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 8"
+    ],
+    "natlDex": 777,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/777.png"
+  },
+  {
+    "pokedexNumber": 349,
+    "name": "Snom",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 10",
+      "Lake of Outrage",
+      "Route 8"
+    ],
+    "natlDex": 872,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/872.png"
+  },
+  {
+    "pokedexNumber": 350,
+    "name": "Frosmoth",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 873,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/873.png"
+  },
+  {
+    "pokedexNumber": 351,
+    "name": "Clobbopus",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 852,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/852.png"
+  },
+  {
+    "pokedexNumber": 352,
+    "name": "Grapploct",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 853,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/853.png"
+  },
+  {
+    "pokedexNumber": 353,
+    "name": "Pincurchin",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 871,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/871.png"
+  },
+  {
+    "pokedexNumber": 354,
+    "name": "Mantyke",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Motostoke Riverbank",
+      "Route 9"
+    ],
+    "natlDex": 458,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/458.png"
+  },
+  {
+    "pokedexNumber": 355,
+    "name": "Mantine",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 9"
+    ],
+    "natlDex": 226,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/226.png"
+  },
+  {
+    "pokedexNumber": 356,
+    "name": "Wailmer",
+    "location": " ",
+    "evolutionLevel": "40",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 320,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/320.png"
+  },
+  {
+    "pokedexNumber": 357,
+    "name": "Wailord",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 321,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/321.png"
+  },
+  {
+    "pokedexNumber": 358,
+    "name": "Bergmite",
+    "location": " ",
+    "evolutionLevel": "37",
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 712,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/712.png"
+  },
+  {
+    "pokedexNumber": 359,
+    "name": "Avalugg",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 713,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/713.png"
+  },
+  {
+    "pokedexNumber": 360,
+    "name": "Dhelmise",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 781,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/781.png"
+  },
+  {
+    "pokedexNumber": 361,
+    "name": "Lapras",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 9"
+    ],
+    "natlDex": 131,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/131.png"
+  },
+  {
+    "pokedexNumber": 362,
+    "name": "Lunatone",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Route 8"
+    ],
+    "natlDex": 337,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/337.png"
+  },
+  {
+    "pokedexNumber": 363,
+    "name": "Solrock",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Giant's Cap",
+      "Route 8"
+    ],
+    "natlDex": 338,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/338.png"
+  },
+  {
+    "pokedexNumber": 364,
+    "name": "Mime Jr",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 439,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/439.png"
+  },
+  {
+    "pokedexNumber": 365,
+    "name": "Mr Mime",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 10",
+      "Lake of Outrage"
+    ],
+    "natlDex": 122,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/122.png"
+  },
+  {
+    "pokedexNumber": 366,
+    "name": "Mr Rime",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 866,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/866.png"
+  },
+  {
+    "pokedexNumber": 367,
+    "name": "Darumaka",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 10",
+      "Route 8"
+    ],
+    "natlDex": 554,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/554.png"
+  },
+  {
+    "pokedexNumber": 368,
+    "name": "Darmanitan",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 555,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/555.png"
+  },
+  {
+    "pokedexNumber": 369,
+    "name": "Stonjourner",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 10"
+    ],
+    "natlDex": 874,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/874.png"
+  },
+  {
+    "pokedexNumber": 370,
+    "name": "Eiscue",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage",
+      "Route 10"
+    ],
+    "natlDex": 875,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/875.png"
+  },
+  {
+    "pokedexNumber": 371,
+    "name": "Duraludon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Route 10",
+      "Lake of Outrage"
+    ],
+    "natlDex": 884,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/884.png"
+  },
+  {
+    "pokedexNumber": 372,
+    "name": "Rotom",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 479,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/479.png"
+  },
+  {
+    "pokedexNumber": 373,
+    "name": "Ditto",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 132,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/132.png"
+  },
+  {
+    "pokedexNumber": 374,
+    "name": "Dracozolt",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Fossils"
+    ],
+    "natlDex": 880,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/880.png"
+  },
+  {
+    "pokedexNumber": 375,
+    "name": "Arctozolt",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Fossils"
+    ],
+    "natlDex": 881,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/881.png"
+  },
+  {
+    "pokedexNumber": 376,
+    "name": "Dracovish",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Fossils"
+    ],
+    "natlDex": 882,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/882.png"
+  },
+  {
+    "pokedexNumber": 377,
+    "name": "Arctovish",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Fossils"
+    ],
+    "natlDex": 883,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/883.png"
+  },
+  {
+    "pokedexNumber": 378,
+    "name": "Charmander",
+    "location": " ",
+    "evolutionLevel": "16",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 4,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/004.png"
+  },
+  {
+    "pokedexNumber": 379,
+    "name": "Charmeleon",
+    "location": " ",
+    "evolutionLevel": "36",
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 5,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/005.png"
+  },
+  {
+    "pokedexNumber": 380,
+    "name": "Charizard",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 6,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/006.png"
+  },
+  {
+    "pokedexNumber": 381,
+    "name": "Type Null",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 772,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/772.png"
+  },
+  {
+    "pokedexNumber": 382,
+    "name": "Silvally",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 773,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/773.png"
+  },
+  {
+    "pokedexNumber": 383,
+    "name": "Larvitar",
+    "location": " ",
+    "evolutionLevel": "30",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 246,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/246.png"
+  },
+  {
+    "pokedexNumber": 384,
+    "name": "Pupitar",
+    "location": " ",
+    "evolutionLevel": "55",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 247,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/247.png"
+  },
+  {
+    "pokedexNumber": 385,
+    "name": "Tyranitar",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 248,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/248.png"
+  },
+  {
+    "pokedexNumber": 386,
+    "name": "Deino",
+    "location": " ",
+    "evolutionLevel": "50",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 633,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/633.png"
+  },
+  {
+    "pokedexNumber": 387,
+    "name": "Zweilous",
+    "location": " ",
+    "evolutionLevel": "64",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 634,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/634.png"
+  },
+  {
+    "pokedexNumber": 388,
+    "name": "Hydreigon",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 635,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/635.png"
+  },
+  {
+    "pokedexNumber": 389,
+    "name": "Goomy",
+    "location": " ",
+    "evolutionLevel": "40",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 704,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/704.png"
+  },
+  {
+    "pokedexNumber": 390,
+    "name": "Sliggoo",
+    "location": " ",
+    "evolutionLevel": "50",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 705,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/705.png"
+  },
+  {
+    "pokedexNumber": 391,
+    "name": "Goodra",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 706,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/706.png"
+  },
+  {
+    "pokedexNumber": 392,
+    "name": "Jangmo-o",
+    "location": " ",
+    "evolutionLevel": "35",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 782,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/782.png"
+  },
+  {
+    "pokedexNumber": 393,
+    "name": "Hakamo-o",
+    "location": " ",
+    "evolutionLevel": "45",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 783,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/783.png"
+  },
+  {
+    "pokedexNumber": 394,
+    "name": "Kommo-o",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 784,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/784.png"
+  },
+  {
+    "pokedexNumber": 395,
+    "name": "Dreepy",
+    "location": " ",
+    "evolutionLevel": "50",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 885,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/885.png"
+  },
+  {
+    "pokedexNumber": 396,
+    "name": "Drakloak",
+    "location": " ",
+    "evolutionLevel": "60",
+    "isCaught": false,
+    "locationWorld": [
+      "Lake of Outrage"
+    ],
+    "natlDex": 886,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/886.png"
+  },
+  {
+    "pokedexNumber": 397,
+    "name": "Dragapult",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [],
+    "natlDex": 887,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/887.png"
+  },
+  {
+    "pokedexNumber": 398,
+    "name": "Zacian",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 888,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/888.png"
+  },
+  {
+    "pokedexNumber": 399,
+    "name": "Zamazenta",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 889,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/889.png"
+  },
+  {
+    "pokedexNumber": 400,
+    "name": "Eternatus",
+    "location": " ",
+    "evolutionLevel": null,
+    "isCaught": false,
+    "locationWorld": [
+      "Other"
+    ],
+    "natlDex": 890,
+    "image": "https://www.serebii.net/swordshield/pokemon/small/890.png"
+  }
+]
