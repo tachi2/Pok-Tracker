@@ -206,8 +206,6 @@
     "evolutionLevel": null,
     "isCaught": false,
     "locationWorld": [
-      "Route 2",
-      "Route 1",
       "Slumbering Weald"
     ],
     "natlDex": 738,
@@ -457,7 +455,6 @@
     "evolutionLevel": "14",
     "isCaught": false,
     "locationWorld": [
-      "Route 2",
       "Rolling Fields",
       "Dappled Grove",
       "Lake Axwell"
@@ -536,6 +533,7 @@
     "evolutionLevel": "22",
     "isCaught": false,
     "locationWorld": [
+      "Route 2",
       "Giant's Cap",
       "Lake of Outrage",
       "Stony Wilderness",
@@ -881,10 +879,8 @@
     "evolutionLevel": null,
     "isCaught": false,
     "locationWorld": [
-      "Route 2",
       "Lake Axwell",
       "Lake Miloch",
-      "Route 1",
       "Route 3"
     ],
     "natlDex": 37,
@@ -932,7 +928,6 @@
     "evolutionLevel": "35",
     "isCaught": false,
     "locationWorld": [
-      "Route 2",
       "Rolling Fields",
       "Lake Axwell"
     ],
@@ -1011,9 +1006,7 @@
     "evolutionLevel": null,
     "isCaught": false,
     "locationWorld": [
-      "Route 2",
       "Giant's Seat",
-      "Route 1",
       "Watchtower Ruins"
     ],
     "natlDex": 225,
@@ -1630,7 +1623,6 @@
     "locationWorld": [
       "Route 3",
       "Motostoke",
-      "Route 2"
     ],
     "natlDex": 829,
     "image": "https://www.serebii.net/swordshield/pokemon/small/829.png"
@@ -1869,7 +1861,6 @@
     "evolutionLevel": null,
     "isCaught": false,
     "locationWorld": [
-      "Route 2",
       "Giant's Cap",
       "Dusty Bowl"
     ],
@@ -2323,7 +2314,6 @@
     "evolutionLevel": null,
     "isCaught": false,
     "locationWorld": [
-      "Route 2",
       "Lake of Outrage",
       "Motostoke",
       "Dusty Bowl"
